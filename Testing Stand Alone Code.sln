@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Stand Alone Code.CSharp", "Testing Stand Alone Code.CSharp.csproj", "{0B2AA01A-10A4-0F95-56EB-DC8CF2D7DAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing Stand Alone Code.CSharp.Editor", "Testing Stand Alone Code.CSharp.Editor.csproj", "{559DB659-21B2-4FDE-BD0B-B30556F29409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B2AA01A-10A4-0F95-56EB-DC8CF2D7DAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B2AA01A-10A4-0F95-56EB-DC8CF2D7DAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B2AA01A-10A4-0F95-56EB-DC8CF2D7DAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B2AA01A-10A4-0F95-56EB-DC8CF2D7DAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559DB659-21B2-4FDE-BD0B-B30556F29409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559DB659-21B2-4FDE-BD0B-B30556F29409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559DB659-21B2-4FDE-BD0B-B30556F29409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559DB659-21B2-4FDE-BD0B-B30556F29409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
